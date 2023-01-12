@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# CONNET
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A job portal that offers features for both job providers and job seekers.
+## Getting Started
 
-## Available Scripts
+Woodniture was created to understand how an DRF and REACT  website works.
 
-In the project directory, you can run:
+Main features:
 
-### `npm start`
+HTML| CSS | Django |Model View Template (MVT)
+ React | Django REST framework | Model View Controller(MVC)
+*• JWT Authentication
+*• Job providers can post and edit jobs and create company profiles on the site.
+*• Job seekers can build their profiles, search for jobs, apply, and chat with anyone on the site.
+*• Connet has an AI-powered chat room.
+*• Admin has the ability to manage job posts and users.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Deployment
 
-### `npm test`
+underprocess
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [DRF](https://www.django-rest-framework.org/) - The web framework used
+* [REACT](https://reactjs.org/) - Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## FLOW 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Login
+![login](https://user-images.githubusercontent.com/42874037/212019166-e026cb72-c805-4661-bc73-06378e393d37.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# landingpage
+![landing](https://user-images.githubusercontent.com/42874037/212020214-a84291ff-814a-483c-83b6-2ba20284b860.png)
 
-## Learn More
+# chat
+![chat](https://user-images.githubusercontent.com/42874037/212020250-32804249-bcb8-443c-9b27-f5920ddd93f0.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# job seeker
+![jobseeker](https://user-images.githubusercontent.com/42874037/212020349-ec49ed7e-ff57-4770-8e2d-755c6e6b43b8.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# job provider
+![Uploading jobprovider page.png…]()
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgments
+more details connect on makhil029@gmail.com
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
